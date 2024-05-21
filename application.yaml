@@ -1,0 +1,4 @@
+application:
+  name: Spring Boot Using Yaml
+  version: 3
+  production-mode: true
